@@ -1,0 +1,19 @@
+﻿Diagnostico basico - 2025-07-22_16-29-26
+------------------------------------------
+
+Estado de servicios:
+ZabbixAgent: No encontrado o sin permisos.
+Cola de impresión: Running
+Windows Update: Stopped
+
+Uso del disco:
+C:\ Total: 464,85 GB | Usado: 97,81 GB | Libre: 367,04 GB
+
+Conectividad:
+{h}: OK
+{h}: OK
+
+Uptime del sistema:
+Uptime: 4 dias, 7 hs, 20 min
+
+Log guardado en: C:\Users\jmoyano\Scripts\002-DiagnosticoTools\logs\diagnostico_2025-07-22_16-29-26.txt
